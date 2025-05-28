@@ -1,5 +1,6 @@
-# ðŸ’« About Me:
-- Currently working on: Building a web app for personalized recommendations ðŸ’»ðŸ’¡<br>- Looking to collaborate on: Open-source projects for social impact ðŸŒŸðŸ‘¥<br>- Looking for help with: Scaling my app for large user bases ðŸ“ˆðŸ”<br>- Currently learning: About cloud computing and DevOps â˜ï¸ðŸ“š<br>- Ask me about: Data science, machine learning, or web development ðŸ¤–ðŸ“Š<br>- Fun facts: When I'm not coding, I love capturing cityscapes through photography ðŸ“¸ or commanding a stage as a public speaker ðŸŽ¤
+# « About Me:
+- Currently working on: Building a web app for personalized recommendations 
+’»’¡<br>- Looking to collaborate on: Open-source projects for social impact ðŸŒŸðŸ‘¥<br>- Looking for help with: Scaling my app for large user bases ðŸ“ˆðŸ”<br>- Currently learning: About cloud computing and DevOps â˜ï¸ðŸ“š<br>- Ask me about: Data science, machine learning, or web development ðŸ¤–ðŸ“Š<br>- Fun facts: When I'm not coding, I love capturing cityscapes through photography ðŸ“¸ or commanding a stage as a public speaker ðŸŽ¤
 
 
 ## ðŸŒ Socials:
